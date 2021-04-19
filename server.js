@@ -6,7 +6,7 @@ import Videos from "./models/tiktok.js"
 //app config
 const app = express();
 const port = process.env.PORT || 9000;
-const url = 'mongodb+srv://aris:aris@cluster0.oa9la.mongodb.net/tiktokDB?retryWrites=true&w=majority'
+const url = 'mongodb+srv://aris:aris2121!@cluster0.dh4z2.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
 
 //middleware
 app.use(express.json())
